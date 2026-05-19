@@ -1,16 +1,14 @@
-# fyp
+# Bol Punjabi – Punjabi Language Learning App
 
-A new Flutter project.
+Bol Punjabi is a mobile application designed to support adult learners in developing basic spoken Punjabi skills through interactive listening and speaking activities. The app focuses on practical conversational Punjabi rather than reading and writing, making it suitable for beginners who may not be familiar with Gurmukhi script.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Project Structure
 
-A few resources to get you started if this is your first Flutter project:
+The application was developed using Flutter with Firebase backend services. Firebase Authentication manages user accounts, Cloud Firestore stores lesson content and progress data, and Firebase Storage stores audio files used throughout the lessons.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Purpose
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project was developed as a final-year Computing project at the University of Portsmouth. It aims to address the limited availability of spoken Punjabi learning applications for adult beginners by providing a structured, accessible, and culturally relevant mobile learning experience.
+
