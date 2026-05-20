@@ -12,5 +12,5 @@ The application was developed using Flutter with Firebase backend services. Fire
 
 This project was developed as a final-year Computing project at the University of Portsmouth. It aims to address the limited availability of spoken Punjabi learning applications for adult beginners by providing a structured, accessible, and culturally relevant mobile learning experience.
 
-##Link to Firebase database:
-(https://console.firebase.google.com/project/bol-punjabi-app/firestore/databases/-default-/data/~2Flesson_exercises~2Flesson1?view=panel-view&query=1%7CLIM%7C3%2F100&scopeType=collection&scopeName=%2Fexercises)  
+Link to Firebase database:
+https://console.firebase.google.com/project/bol-punjabi-app/firestore/databases/-default-/data/~2Flesson_exercises~2Flesson1?view=panel-view&query=1%7CLIM%7C3%2F100&scopeType=collection&scopeName=%2Fexercises  
